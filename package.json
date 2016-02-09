@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Babel preset for ES2015 in the browser",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Collaborne/babel-preset-es2015-script.git"
