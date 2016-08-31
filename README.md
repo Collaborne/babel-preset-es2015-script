@@ -1,3 +1,18 @@
+*This preset is deprecated*
+===========================
+
+Instead of using this preset use the `babel-preset-es2015` with the `modules` option set to `false`:
+
+```js
+{
+  "presets": [ [ "es2015", { modules: false } ] ]
+}
+```
+
+`babel-preset-es2015-script` is now just a different way to write the same.
+
+Old documentation follows:
+
 babel-preset-es2015-script [![Build Status](https://travis-ci.org/Collaborne/babel-preset-es2015-script.svg?branch=master)](https://travis-ci.org/Collaborne/babel-preset-es2015-script)
 =========
 Babel preset based on [the es2015 preset](http://babeljs.io/docs/plugins/preset-es2015/), but for use inside the browser rather than for an ES6 module.
