@@ -1,6 +1,8 @@
 *This preset is deprecated*
 ===========================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Collaborne/babel-preset-es2015-script.svg)](https://greenkeeper.io/)
+
 Instead of using this preset use the `babel-preset-es2015` with the `modules` option set to `false`:
 
 ```js
