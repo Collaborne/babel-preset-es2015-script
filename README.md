@@ -13,7 +13,7 @@ Instead of using this preset use the `babel-preset-es2015` with the `modules` op
 
 Old documentation follows:
 
-babel-preset-es2015-script [![Build Status](https://travis-ci.org/Collaborne/babel-preset-es2015-script.svg?branch=master)](https://travis-ci.org/Collaborne/babel-preset-es2015-script)
+babel-preset-es2015-script [![Build Status](https://travis-ci.org/Collaborne/babel-preset-es2015-script.svg?branch=master)](https://travis-ci.org/Collaborne/babel-preset-es2015-script) [![Greenkeeper badge](https://badges.greenkeeper.io/Collaborne/babel-preset-es2015-script.svg)](https://greenkeeper.io/)
 =========
 Babel preset based on [the es2015 preset](http://babeljs.io/docs/plugins/preset-es2015/), but for use inside the browser rather than for an ES6 module.
 Specifically this preset does not include [the transform-es2015-modules-commonjs plugin](http://babeljs.io/docs/plugins/transform-es2015-modules-commonjs/)
